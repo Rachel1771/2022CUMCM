@@ -1,0 +1,17 @@
+digraph Tree {
+node [shape=box, style="filled, rounded", color="black", fontname="Microsoft YaHei"] ;
+edge [fontname="Microsoft YaHei"] ;
+0 [label="F3 <= 0.29\ngini = 0.42\nsamples = 29\nvalue = [32, 14]\nclass = 铅钡", fillcolor="#f0b890"] ;
+1 [label="gini = 0.0\nsamples = 14\nvalue = [23, 0]\nclass = 铅钡", fillcolor="#e58139"] ;
+0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
+2 [label="F7 <= -0.03\ngini = 0.48\nsamples = 15\nvalue = [9, 14]\nclass = 高钾", fillcolor="#b8dcf6"] ;
+0 -> 2 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+3 [label="F1 <= -0.85\ngini = 0.18\nsamples = 6\nvalue = [9, 1]\nclass = 铅钡", fillcolor="#e88f4f"] ;
+2 -> 3 ;
+4 [label="gini = 0.0\nsamples = 1\nvalue = [0, 1]\nclass = 高钾", fillcolor="#399de5"] ;
+3 -> 4 ;
+5 [label="gini = 0.0\nsamples = 5\nvalue = [9, 0]\nclass = 铅钡", fillcolor="#e58139"] ;
+3 -> 5 ;
+6 [label="gini = 0.0\nsamples = 9\nvalue = [0, 13]\nclass = 高钾", fillcolor="#399de5"] ;
+2 -> 6 ;
+}

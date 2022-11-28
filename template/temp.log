@@ -1,0 +1,933 @@
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.5.11)  6 OCT 2022 18:48
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**temp
+(./temp.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-02-24> (d:/texlive/texmf-dist/tex/latex/ctex/ctexart.cls (d:/texlive/texmf-dist/tex/latex/ctex/config/ctexbackend.cfg
+File: ctexbackend.cfg 2021/12/12 v2.5.8 Backend configuration file (CTEX)
+) (d:/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2022-02-24 L3 programming layer (loader) 
+ (d:/texlive/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
+File: l3backend-xetex.def 2022-02-07 L3 backend support: XeTeX
+ (|extractbb --version)
+\c__kernel_sys_dvipdfmx_version_int=\count181
+\l__color_backend_stack_int=\count182
+\g__color_backend_stack_int=\count183
+\g__graphics_track_int=\count184
+\l__pdf_internal_box=\box50
+\g__pdf_backend_object_int=\count185
+\g__pdf_backend_annotation_int=\count186
+\g__pdf_backend_link_int=\count187
+))
+Document Class: ctexart 2021/12/12 v2.5.8 Chinese adapter for class article (CTEX)
+(d:/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2022-01-12 L3 Experimental document command parser
+) (d:/texlive/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+Package: l3keys2e 2022-01-12 LaTeX2e option processing using LaTeX3 keys
+) (d:/texlive/texmf-dist/tex/latex/ctex/ctexhook.sty
+Package: ctexhook 2021/12/12 v2.5.8 Document and package hooks (CTEX)
+) (d:/texlive/texmf-dist/tex/latex/ctex/ctexpatch.sty
+Package: ctexpatch 2021/12/12 v2.5.8 Patching commands (CTEX)
+) (d:/texlive/texmf-dist/tex/latex/base/fix-cm.sty
+Package: fix-cm 2020/11/24 v1.1t fixes to LaTeX
+ (d:/texlive/texmf-dist/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding TS1 on input line 47.
+))
+\l__ctex_tmp_int=\count188
+\l__ctex_tmp_box=\box51
+\l__ctex_tmp_dim=\dimen138
+\g__ctex_section_depth_int=\count189
+\g__ctex_font_size_int=\count190
+ (d:/texlive/texmf-dist/tex/latex/ctex/config/ctexopts.cfg
+File: ctexopts.cfg 2021/12/12 v2.5.8 Option configuration file (CTEX)
+) (d:/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+(d:/texlive/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count191
+\c@section=\count192
+\c@subsection=\count193
+\c@subsubsection=\count194
+\c@paragraph=\count195
+\c@subparagraph=\count196
+\c@figure=\count197
+\c@table=\count198
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen139
+) (d:/texlive/texmf-dist/tex/latex/ctex/engine/ctex-engine-xetex.def
+File: ctex-engine-xetex.def 2021/12/12 v2.5.8 XeLaTeX adapter (CTEX)
+ (d:/texlive/texmf-dist/tex/xelatex/xecjk/xeCJK.sty
+Package: xeCJK 2021/12/12 v3.8.8 Typesetting CJK scripts with XeLaTeX
+ (d:/texlive/texmf-dist/tex/latex/l3packages/xtemplate/xtemplate.sty
+Package: xtemplate 2022-01-12 L3 Experimental prototype document functions
+\l__xtemplate_tmp_dim=\dimen140
+\l__xtemplate_tmp_int=\count199
+\l__xtemplate_tmp_muskip=\muskip16
+\l__xtemplate_tmp_skip=\skip49
+)
+\l__xeCJK_tmp_int=\count266
+\l__xeCJK_tmp_box=\box52
+\l__xeCJK_tmp_dim=\dimen141
+\l__xeCJK_tmp_skip=\skip50
+\g__xeCJK_space_factor_int=\count267
+\l__xeCJK_begin_int=\count268
+\l__xeCJK_end_int=\count269
+\c__xeCJK_CJK_class_int=\XeTeXcharclass1
+\c__xeCJK_FullLeft_class_int=\XeTeXcharclass2
+\c__xeCJK_FullRight_class_int=\XeTeXcharclass3
+\c__xeCJK_HalfLeft_class_int=\XeTeXcharclass4
+\c__xeCJK_HalfRight_class_int=\XeTeXcharclass5
+\c__xeCJK_NormalSpace_class_int=\XeTeXcharclass6
+\c__xeCJK_CM_class_int=\XeTeXcharclass7
+\c__xeCJK_HangulJamo_class_int=\XeTeXcharclass8
+\l__xeCJK_last_skip=\skip51
+\g__xeCJK_node_int=\count270
+\c__xeCJK_CJK_node_dim=\dimen142
+\c__xeCJK_CJK-space_node_dim=\dimen143
+\c__xeCJK_default_node_dim=\dimen144
+\c__xeCJK_default-space_node_dim=\dimen145
+\c__xeCJK_CJK-widow_node_dim=\dimen146
+\c__xeCJK_normalspace_node_dim=\dimen147
+\l__xeCJK_ccglue_skip=\skip52
+\l__xeCJK_ecglue_skip=\skip53
+\l__xeCJK_punct_kern_skip=\skip54
+\l__xeCJK_last_penalty_int=\count271
+\l__xeCJK_last_bound_dim=\dimen148
+\l__xeCJK_last_kern_dim=\dimen149
+\l__xeCJK_widow_penalty_int=\count272
+
+Package xtemplate Info: Declaring object type 'xeCJK/punctuation' taking 0
+(xtemplate)             argument(s) on line 2337.
+
+\l__xeCJK_fixed_punct_width_dim=\dimen150
+\l__xeCJK_mixed_punct_width_dim=\dimen151
+\l__xeCJK_middle_punct_width_dim=\dimen152
+\l__xeCJK_fixed_margin_width_dim=\dimen153
+\l__xeCJK_mixed_margin_width_dim=\dimen154
+\l__xeCJK_middle_margin_width_dim=\dimen155
+\l__xeCJK_bound_punct_width_dim=\dimen156
+\l__xeCJK_bound_margin_width_dim=\dimen157
+\l__xeCJK_margin_minimum_dim=\dimen158
+\l__xeCJK_kerning_total_width_dim=\dimen159
+\l__xeCJK_same_align_margin_dim=\dimen160
+\l__xeCJK_different_align_margin_dim=\dimen161
+\l__xeCJK_kerning_margin_width_dim=\dimen162
+\l__xeCJK_kerning_margin_minimum_dim=\dimen163
+\l__xeCJK_bound_dim=\dimen164
+\l__xeCJK_reverse_bound_dim=\dimen165
+\l__xeCJK_margin_dim=\dimen166
+\l__xeCJK_minimum_bound_dim=\dimen167
+\l__xeCJK_kerning_margin_dim=\dimen168
+\g__xeCJK_family_int=\count273
+\l__xeCJK_fam_int=\count274
+\g__xeCJK_fam_allocation_int=\count275
+\l__xeCJK_verb_case_int=\count276
+\l__xeCJK_verb_exspace_skip=\skip55
+ (d:/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty
+Package: fontspec 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTeX
+ (d:/texlive/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+Package: fontspec-xetex 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTeX
+\l__fontspec_script_int=\count277
+\l__fontspec_language_int=\count278
+\l__fontspec_strnum_int=\count279
+\l__fontspec_tmp_int=\count280
+\l__fontspec_tmpa_int=\count281
+\l__fontspec_tmpb_int=\count282
+\l__fontspec_tmpc_int=\count283
+\l__fontspec_em_int=\count284
+\l__fontspec_emdef_int=\count285
+\l__fontspec_strong_int=\count286
+\l__fontspec_strongdef_int=\count287
+\l__fontspec_tmpa_dim=\dimen169
+\l__fontspec_tmpb_dim=\dimen170
+\l__fontspec_tmpc_dim=\dimen171
+ (d:/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+) (d:/texlive/texmf-dist/tex/latex/fontspec/fontspec.cfg))) (d:/texlive/texmf-dist/tex/xelatex/xecjk/xeCJK.cfg
+File: xeCJK.cfg 2021/12/12 v3.8.8 Configuration file for xeCJK package
+))
+\ccwd=\dimen172
+\l__ctex_ccglue_skip=\skip56
+)
+\l__ctex_ziju_dim=\dimen173
+ (d:/texlive/texmf-dist/tex/latex/zhnumber/zhnumber.sty
+Package: zhnumber 2020/05/01 v2.8 Typesetting numbers with Chinese glyphs
+\l__zhnum_scale_int=\count288
+ (d:/texlive/texmf-dist/tex/latex/zhnumber/zhnumber-utf8.cfg
+File: zhnumber-utf8.cfg 2020/05/01 v2.8 Chinese numerals with UTF8 encoding
+))
+\l__ctex_heading_skip=\skip57
+ (d:/texlive/texmf-dist/tex/latex/ctex/scheme/ctex-scheme-chinese-article.def
+File: ctex-scheme-chinese-article.def 2021/12/12 v2.5.8 Chinese scheme for article (CTEX)
+ (d:/texlive/texmf-dist/tex/latex/ctex/config/ctex-name-utf8.cfg
+File: ctex-name-utf8.cfg 2021/12/12 v2.5.8 Caption with encoding UTF-8 (CTEX)
+)) (d:/texlive/texmf-dist/tex/latex/ctex/ctex-c5size.clo
+File: ctex-c5size.clo 2021/12/12 v2.5.8 c5size option (CTEX)
+) (d:/texlive/texmf-dist/tex/latex/ctex/fontset/ctex-fontset-windows.def
+File: ctex-fontset-windows.def 2021/12/12 v2.5.8 Windows fonts definition (CTEX)
+
+Package fontspec Info: Could not resolve font "KaiTi/B" (it probably doesn't
+(fontspec)             exist).
+
+
+Package fontspec Info: Could not resolve font "SimHei/I" (it probably doesn't
+(fontspec)             exist).
+
+
+Package fontspec Info: Could not resolve font "SimSun/BI" (it probably doesn't
+(fontspec)             exist).
+
+
+Package fontspec Info: Font family 'SimSun(0)' created for font 'SimSun' with
+(fontspec)             options
+(fontspec)             [Script={CJK},BoldFont={SimHei},ItalicFont={KaiTi}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"SimSun/OT:script=hani;language=dflt;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"SimHei/OT:script=hani;language=dflt;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"KaiTi/OT:script=hani;language=dflt;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
+
+)) (d:/texlive/texmf-dist/tex/latex/ctex/config/ctex.cfg
+File: ctex.cfg 2021/12/12 v2.5.8 Configuration file (CTEX)
+) (d:/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2021/10/15 v2.17l AMS math features
+\@mathmargin=\skip58
+
+For additional information on amsmath, use the `?' option.
+(d:/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+ (d:/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks16
+\ex@=\dimen174
+)) (d:/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen175
+) (d:/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2021/08/26 v2.02 operator names
+)
+\inf@bad=\count289
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count290
+\leftroot@=\count291
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count292
+\DOTSCASE@=\count293
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box53
+\strutbox@=\box54
+\big@size=\dimen176
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count294
+\c@MaxMatrixCols=\count295
+\dotsspace@=\muskip17
+\c@parentequation=\count296
+\dspbrk@lvl=\count297
+\tag@help=\toks17
+\row@=\count298
+\column@=\count299
+\maxfields@=\count300
+\andhelp@=\toks18
+\eqnshift@=\dimen177
+\alignsep@=\dimen178
+\tagshift@=\dimen179
+\tagwidth@=\dimen180
+\totwidth@=\dimen181
+\lineht@=\dimen182
+\@envbody=\toks19
+\multlinegap=\skip59
+\multlinetaggap=\skip60
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2938.
+LaTeX Info: Redefining \] on input line 2939.
+) (d:/texlive/texmf-dist/tex/latex/listings/listings.sty (d:/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks21
+)
+\lst@mode=\count301
+\lst@gtempboxa=\box55
+\lst@token=\toks22
+\lst@length=\count302
+\lst@currlwidth=\dimen183
+\lst@column=\count303
+\lst@pos=\count304
+\lst@lostspace=\dimen184
+\lst@width=\dimen185
+\lst@newlines=\count305
+\lst@lineno=\count306
+\lst@maxwidth=\dimen186
+ (d:/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+\c@lstnumber=\count307
+\lst@skipnumbers=\count308
+\lst@framebox=\box56
+) (d:/texlive/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2020/03/24 1.8d listings configuration
+))
+Package: listings 2020/03/24 1.8d (Carsten Heinz)
+ (d:/texlive/texmf-dist/tex/xelatex/xecjk/xeCJK-listings.sty
+Package: xeCJK-listings 2021/12/12 v3.8.8 xeCJK patch file for listings
+\l__xeCJK_listings_max_char_int=\count309
+\l__xeCJK_listings_flag_int=\count310
+) (d:/texlive/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2021/12/07 v1.3c Standard LaTeX Color (DPC)
+ (d:/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: xetex.def on input line 149.
+ (d:/texlive/texmf-dist/tex/latex/graphics-def/xetex.def
+File: xetex.def 2021/03/18 v5.0k Graphics/color driver for xetex
+)) (d:/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2021/10/31 v2.13 LaTeX color extensions (UK)
+ (d:/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: xetex.def on input line 227.
+LaTeX Info: Redefining \color on input line 711.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1368.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1370.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1374.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1375.
+) (d:/texlive/texmf-dist/tex/latex/colortbl/colortbl.sty
+Package: colortbl 2020/01/04 v1.0e Color table columns (DPC)
+ (d:/texlive/texmf-dist/tex/latex/tools/array.sty
+Package: array 2021/10/04 v2.5f Tabular extension package (FMi)
+\col@sep=\dimen187
+\ar@mcellbox=\box57
+\extrarowheight=\dimen188
+\NC@list=\toks23
+\extratabsurround=\skip61
+\backup@length=\skip62
+\ar@cellbox=\box58
+)
+\everycr=\toks24
+\minrowclearance=\skip63
+) (d:/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (d:/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+ (d:/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+) (d:/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 107.
+)
+\Gin@req@height=\dimen189
+\Gin@req@width=\dimen190
+) (d:/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen191
+\lightrulewidth=\dimen192
+\cmidrulewidth=\dimen193
+\belowrulesep=\dimen194
+\belowbottomsep=\dimen195
+\aboverulesep=\dimen196
+\abovetopsep=\dimen197
+\cmidrulesep=\dimen198
+\cmidrulekern=\dimen199
+\defaultaddspace=\dimen256
+\@cmidla=\count311
+\@cmidlb=\count312
+\@aboverulesep=\dimen257
+\@belowrulesep=\dimen258
+\@thisruleclass=\count313
+\@lastruleclass=\count314
+\@thisrulewidth=\dimen259
+) (d:/texlive/texmf-dist/tex/latex/caption/caption2.sty
+Package: caption2 2021/01/20 v2.2i Customising captions (AR)
+ (d:/texlive/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2022/03/17 v2.3b caption3 kernel (AR)
+\caption@tempdima=\dimen260
+\captionmargin=\dimen261
+\caption@leftmargin=\dimen262
+\caption@rightmargin=\dimen263
+\caption@width=\dimen264
+\caption@indent=\dimen265
+\caption@parindent=\dimen266
+\caption@hangindent=\dimen267
+Package caption Info: Standard document class detected.
+)
+Package caption2 Info: Running in caption2 v2.0 compatibility mode on input line 231.
+\captionlinewidth=\dimen268
+\realcaptionwidth=\dimen269
+Package caption2 Info: float package is not loaded on input line 335.
+Package caption2 Info: longtable package is not loaded on input line 352.
+Package caption2 Info: subfigure package is not loaded on input line 445.
+) (d:/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (d:/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+ (d:/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count315
+\Gm@cntv=\count316
+\c@Gm@tempcnt=\count317
+\Gm@bindingoffset=\dimen270
+\Gm@wd@mp=\dimen271
+\Gm@odd@mp=\dimen272
+\Gm@even@mp=\dimen273
+\Gm@layoutwidth=\dimen274
+\Gm@layoutheight=\dimen275
+\Gm@layouthoffset=\dimen276
+\Gm@layoutvoffset=\dimen277
+\Gm@dimlist=\toks25
+) (d:/texlive/texmf-dist/tex/latex/subfigure/subfigure.sty
+Package: subfigure 2002/03/15 v2.1.5 subfigure package
+\subfigtopskip=\skip64
+\subfigcapskip=\skip65
+\subfigcaptopadj=\dimen278
+\subfigbottomskip=\skip66
+\subfigcapmargin=\dimen279
+\subfiglabelskip=\skip67
+\c@subfigure=\count318
+\c@lofdepth=\count319
+\c@subtable=\count320
+\c@lotdepth=\count321
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+(d:/texlive/texmf-dist/tex/latex/subfigure/subfigure.cfg)
+\subfig@top=\skip68
+\subfig@bottom=\skip69
+) (d:/texlive/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2021-09-01 v4.17 Multi-page Table package (DPC)
+\LTleft=\skip70
+\LTright=\skip71
+\LTpre=\skip72
+\LTpost=\skip73
+\LTchunksize=\count322
+\LTcapwidth=\dimen280
+\LT@head=\box59
+\LT@firsthead=\box60
+\LT@foot=\box61
+\LT@lastfoot=\box62
+\LT@gbox=\box63
+\LT@cols=\count323
+\LT@rows=\count324
+\c@LT@tables=\count325
+\c@LT@chunks=\count326
+\LT@p@ftn=\toks26
+) (d:/texlive/texmf-dist/tex/latex/abstract/abstract.sty
+Package: abstract 2009/06/08 v1.2a configurable abstracts
+\abstitleskip=\skip74
+\absleftindent=\skip75
+\absrightindent=\skip76
+\absparindent=\skip77
+\absparsep=\skip78
+) (d:/texlive/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
+\multirow@colwidth=\skip79
+\multirow@cntb=\count327
+\multirow@dima=\skip80
+\bigstrutjot=\dimen281
+) (d:/texlive/texmf-dist/tex/latex/tools/enumerate.sty
+Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
+\@enLab=\toks27
+) (d:/texlive/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count328
+\float@exts=\toks28
+\float@box=\box64
+\@float@everytoks=\toks29
+\@floatcapt=\box65
+) (d:/texlive/texmf-dist/tex/latex/threeparttable/threeparttable.sty
+Package: threeparttable 2003/06/13  v 3.0
+\@tempboxb=\box66
+) (d:/texlive/texmf-dist/tex/xelatex/xltxtra/xltxtra.sty
+Package: xltxtra 2018/12/31 v0.7 Improvements for the "XeLaTeX" format
+ (d:/texlive/texmf-dist/tex/generic/iftex/ifluatex.sty
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+) (d:/texlive/texmf-dist/tex/generic/iftex/ifxetex.sty
+Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
+) (d:/texlive/texmf-dist/tex/latex/realscripts/realscripts.sty
+Package: realscripts 2016/02/13 v0.3d Access OpenType subscripts and superscripts
+\subsupersep=\dimen282
+) (d:/texlive/texmf-dist/tex/latex/metalogo/metalogo.sty
+Package: metalogo 2010/05/29 v0.12 Extended TeX logo macros
+\xl@everylogo=\toks30
+\xl@@everylogo=\toks31
+LaTeX Info: Redefining \TeX on input line 193.
+LaTeX Info: Redefining \LaTeX on input line 202.
+LaTeX Info: Redefining \LaTeXe on input line 219.
+)
+\l__xetex_show_hyphens_wrapping_box=\box67
+\l__xetex_show_hyphens_temp_box=\box68
+\l__xetex_show_hyphens_final_box=\box69
+\g__xetex_show_hyphens_word_box=\box70
+) (d:/texlive/texmf-dist/tex/latex/mflogo/mflogo.sty
+Package: mflogo 1999/03/10 v2.0 LaTeX package for Metafont and MetaPost logos
+) (d:/texlive/texmf-dist/tex/generic/beebe/texnames.sty
+This is texnames.sty, Version 1.10 <02 March 1998>
+) (d:/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+ (d:/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) (d:/texlive/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip81
+\bibsep=\skip82
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count329
+) (d:/texlive/texmf-dist/tex/latex/algorithms/algorithm.sty
+Invalid UTF-8 byte or sequence at line 11 replaced by U+FFFD.
+Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating environment
+ (d:/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\@float@every@algorithm=\toks32
+\c@algorithm=\count330
+) (d:/texlive/texmf-dist/tex/latex/algorithmicx/algpseudocode.sty
+Package: algpseudocode 
+ (d:/texlive/texmf-dist/tex/latex/algorithmicx/algorithmicx.sty
+Package: algorithmicx 2005/04/27 v1.2 Algorithmicx
+
+Document Style algorithmicx 1.2 - a greatly improved `algorithmic' style
+\c@ALG@line=\count331
+\c@ALG@rem=\count332
+\c@ALG@nested=\count333
+\ALG@tlm=\skip83
+\ALG@thistlm=\skip84
+\c@ALG@Lnr=\count334
+\c@ALG@blocknr=\count335
+\c@ALG@storecount=\count336
+\c@ALG@tmpcounter=\count337
+\ALG@tmplength=\skip85
+)
+Document Style - pseudocode environments for use with the `algorithmicx' style
+) (./temp.aux
+
+LaTeX Warning: Label `fig:figure 1' multiply defined.
+
+
+LaTeX Warning: Label `fig:figure 6' multiply defined.
+
+
+LaTeX Warning: Label `fig' multiply defined.
+
+
+LaTeX Warning: Label `fig' multiply defined.
+
+
+LaTeX Warning: Label `fig:figure 6' multiply defined.
+
+
+LaTeX Warning: Label `fig:figure 6' multiply defined.
+
+
+LaTeX Warning: Label `fig:figure 6' multiply defined.
+
+
+LaTeX Warning: Label `fig:figure 9' multiply defined.
+
+
+LaTeX Warning: Label `fig:figure 9' multiply defined.
+
+
+LaTeX Warning: Label `fig:figure 9' multiply defined.
+
+
+LaTeX Warning: Label `fig:figure 3' multiply defined.
+
+)
+\openout1 = `temp.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+
+Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
+(fontspec)             this).
+
+\symlegacymaths=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 84.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 84.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 84.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 84.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 84.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 84.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 84.
+LaTeX Font Info:    Redeclaring math accent \check on input line 84.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 84.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 84.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 84.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 84.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 84.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 84.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 84.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 84.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 84.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 84.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 84.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 84.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 84.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 84.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 84.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 84.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `normal' on input line 84.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> TU/lmr/m/n on input line 84.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `bold' on input line 84.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> TU/lmr/m/n on input line 84.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  TU/lmr/m/n --> TU/lmr/m/n on input line 84.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> TU/lmr/m/it on input line 84.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> TU/lmr/b/n on input line 84.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 84.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 84.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  TU/lmr/m/n --> TU/lmr/b/n on input line 84.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> TU/lmr/b/it on input line 84.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 84.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 84.
+\c@lstlisting=\count338
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+*geometry* verbose mode - [ preamble ] result:
+* driver: xetex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(71.13188pt, 455.24411pt, 71.13188pt)
+* v-part:(T,H,B)=(71.13188pt, 702.78308pt, 71.13188pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=455.24411pt
+* \textheight=702.78308pt
+* \oddsidemargin=-1.1381pt
+* \evensidemargin=-1.1381pt
+* \topmargin=-38.1381pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Font Info:    Trying to load font information for U+msa on input line 85.
+(d:/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 85.
+ (d:/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+
+LaTeX Warning: No \author given.
+
+
+Package xeCJK Warning: Unknown CJK family `song' is being ignored.
+(xeCJK)                
+(xeCJK)                Try to use `\setCJKfamilyfont{song}[...]{...}' to
+(xeCJK)                define it.
+
+[1
+
+] [2] [3]
+File: img/第一问流程图.png Graphic file (type bmp)
+<img/第一问流程图.png>
+ [4]
+File: img/rf.png Graphic file (type bmp)
+<img/rf.png>
+ [5]
+File: img/成分比例求和直方图.png Graphic file (type bmp)
+<img/成分比例求和直方图.png>
+ [6] [7]
+Missing character: There is no 此 (U+6B64) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 处 (U+5904) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 加 (U+52A0) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 入 (U+5165) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 引 (U+5F15) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 用 (U+7528) in font [lmroman10-regular]:mapping=tex-text;!
+File: img/斯皮尔曼相关系数热力图.png Graphic file (type bmp)
+<img/斯皮尔曼相关系数热力图.png>
+[8] [9] [10]
+File: img/二氧化硅岭迹图.png Graphic file (type bmp)
+<img/二氧化硅岭迹图.png>
+
+Overfull \hbox (46.846pt too wide) in paragraph at lines 518--538
+ [][] 
+ []
+
+[11]
+File: img/效果比对图.png Graphic file (type bmp)
+<img/效果比对图.png>
+ [12] [13]
+File: img/第二问流程图.png Graphic file (type bmp)
+<img/第二问流程图.png>
+ [14] [15]
+File: img/肘部法_铅钡.png Graphic file (type bmp)
+<img/肘部法_铅钡.png>
+File: img/肘部法_高钾.png Graphic file (type bmp)
+<img/肘部法_高钾.png>
+File: img/轮廓系数_铅钡_label.png Graphic file (type bmp)
+<img/轮廓系数_铅钡_label.png>
+File: img/轮廓系数_高钾_label.png Graphic file (type bmp)
+<img/轮廓系数_高钾_label.png>
+ [16]
+File: img/k-means_铅钡.png Graphic file (type bmp)
+<img/k-means_铅钡.png>
+File: img/k-means_高钾.png Graphic file (type bmp)
+<img/k-means_高钾.png>
+ [17]
+File: img/交叉评估流程图.png Graphic file (type bmp)
+<img/交叉评估流程图.png>
+ [18] [19]
+File: img/S1.png Graphic file (type bmp)
+<img/S1.png>
+ [20]
+File: img/S2_heatmap.png Graphic file (type bmp)
+<img/S2_heatmap.png>
+ [21]
+File: img/第三问流程图.png Graphic file (type bmp)
+<img/第三问流程图.png>
+ [22]
+File: img/集成模型流程.png Graphic file (type bmp)
+<img/集成模型流程.png>
+ [23]
+File: img/器分类结构.png Graphic file (type bmp)
+<img/器分类结构.png>
+ [24] [25]
+File: img/AUC.png Graphic file (type bmp)
+<img/AUC.png>
+ [26]
+Missing character: There is no 有 (U+6709) in font [lmroman10-regular]:mapping=tex-text;!
+[27]
+File: img/S1_2.png Graphic file (type bmp)
+<img/S1_2.png>
+File: img/S2_heatmap2.png Graphic file (type bmp)
+<img/S2_heatmap2.png>
+ [28]
+File: img/求解化学成分关联的流程图.png Graphic file (type bmp)
+<img/求解化学成分关联的流程图.png>
+ [29] [30]
+File: img/二氧化硅标准化散点图.png Graphic file (type bmp)
+<img/二氧化硅标准化散点图.png>
+ [31] [32] [33]
+Overfull \hbox (18.93611pt too wide) in paragraph at lines 1564--1582
+ [][] 
+ []
+
+[34] [35] [36]
+Underfull \hbox (badness 10000) in paragraph at lines 1676--1677
+[]\TU/SimSun(0)/m/n/10.53937 于 群\TU/lmr/m/n/10.53937 , \TU/SimSun(0)/m/n/10.53937 霍 筱 东\TU/lmr/m/n/10.53937 , \TU/SimSun(0)/m/n/10.53937 何 剑\TU/lmr/m/n/10.53937 , \TU/SimSun(0)/m/n/10.53937 李 琳\TU/lmr/m/n/10.53937 , \TU/SimSun(0)/m/n/10.53937 张 建 新\TU/lmr/m/n/10.53937 , \TU/SimSun(0)/m/n/10.53937 冯 煜 尧\TU/lmr/m/n/10.53937 . \TU/SimSun(0)/m/n/10.53937 基 于 斯 皮 尔 曼 相 关 系 数 和 系 统
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1676--1677
+\TU/SimSun(0)/m/n/10.53937 惯 量 的 中 国 电 网 停 电 事 故 趋 势 预 测 \TU/lmr/m/n/10.53937 [JOL]. \TU/SimSun(0)/m/n/10.53937 中 国 电 机 工 程 学 报 \TU/lmr/m/n/10.53937 1-12[2022-09-
+ []
+
+
+Underfull \hbox (badness 1077) in paragraph at lines 1683--1684
+[]\TU/SimSun(0)/m/n/10.53937 李 特\TU/lmr/m/n/10.53937 , \TU/SimSun(0)/m/n/10.53937 王 建 敏\TU/lmr/m/n/10.53937 , \TU/SimSun(0)/m/n/10.53937 张 为 成\TU/lmr/m/n/10.53937 . \TU/SimSun(0)/m/n/10.53937 基 于 熵 权 法 的 \TU/lmr/m/n/10.53937 BDS \TU/SimSun(0)/m/n/10.53937 钟 差 组 合 预 测 模 型 的 建 立 \TU/lmr/m/n/10.53937 [J]. \TU/SimSun(0)/m/n/10.53937 导 航 定 位 学
+ []
+
+[37]
+File: img/1 (1).png Graphic file (type bmp)
+<img/1 (1).png>
+File: img/1 (2).png Graphic file (type bmp)
+<img/1 (2).png>
+File: img/1 (3).png Graphic file (type bmp)
+<img/1 (3).png>
+ [38]
+File: img/1 (4).png Graphic file (type bmp)
+<img/1 (4).png>
+File: img/1 (5).png Graphic file (type bmp)
+<img/1 (5).png>
+ [39]
+File: img/1 (6).png Graphic file (type bmp)
+<img/1 (6).png>
+File: img/1 (7).png Graphic file (type bmp)
+<img/1 (7).png>
+ [40]
+File: img/1 (8).png Graphic file (type bmp)
+<img/1 (8).png>
+File: img/1 (9).png Graphic file (type bmp)
+<img/1 (9).png>
+ [41]
+File: img/1 (10).png Graphic file (type bmp)
+<img/1 (10).png>
+File: img/1 (11).png Graphic file (type bmp)
+<img/1 (11).png>
+ [42]
+File: img/1 (12).png Graphic file (type bmp)
+<img/1 (12).png>
+File: img/1 (13).png Graphic file (type bmp)
+<img/1 (13).png>
+ [43]
+File: img/1 (14).png Graphic file (type bmp)
+<img/1 (14).png>
+File: img/1 (15).png Graphic file (type bmp)
+<img/1 (15).png>
+ [44]
+File: img/1 (16).png Graphic file (type bmp)
+<img/1 (16).png>
+File: img/1 (17).png Graphic file (type bmp)
+<img/1 (17).png>
+ [45]
+File: img/1 (18).png Graphic file (type bmp)
+<img/1 (18).png>
+File: img/1 (19).png Graphic file (type bmp)
+<img/1 (19).png>
+ [46]
+File: img/1 (20).png Graphic file (type bmp)
+<img/1 (20).png>
+File: img/1 (21).png Graphic file (type bmp)
+<img/1 (21).png>
+ [47]
+File: img/1 (22).png Graphic file (type bmp)
+<img/1 (22).png>
+File: img/1 (23).png Graphic file (type bmp)
+<img/1 (23).png>
+ [48]
+File: img/1 (24).png Graphic file (type bmp)
+<img/1 (24).png>
+File: img/1 (25).png Graphic file (type bmp)
+<img/1 (25).png>
+ [49]
+File: img/1 (26).png Graphic file (type bmp)
+<img/1 (26).png>
+File: img/1 (27).png Graphic file (type bmp)
+<img/1 (27).png>
+ [50]
+File: img/1 (28).png Graphic file (type bmp)
+<img/1 (28).png>
+File: img/1 (29).png Graphic file (type bmp)
+<img/1 (29).png>
+ [51]
+File: img/1 (30).png Graphic file (type bmp)
+<img/1 (30).png>
+ [52] [53] [54] [55] [56] [57]
+Overfull \hbox (21.07874pt too wide) in paragraph at lines 2066--2112
+[]$[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2066--2112
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2066--2112
+
+ []
+
+[58] [59]
+File: img/1.png Graphic file (type bmp)
+<img/1.png>
+ [60]
+File: img/2.png Graphic file (type bmp)
+<img/2.png>
+File: img/3.png Graphic file (type bmp)
+<img/3.png>
+ [61]
+File: img/4.png Graphic file (type bmp)
+<img/4.png>
+File: img/5.png Graphic file (type bmp)
+<img/5.png>
+ [62]
+File: img/6.png Graphic file (type bmp)
+<img/6.png>
+File: img/7.png Graphic file (type bmp)
+<img/7.png>
+ [63]
+File: img/8.png Graphic file (type bmp)
+<img/8.png>
+File: img/9.png Graphic file (type bmp)
+<img/9.png>
+ [64]
+File: img/10.png Graphic file (type bmp)
+<img/10.png>
+File: img/11.png Graphic file (type bmp)
+<img/11.png>
+ [65]
+File: img/12.png Graphic file (type bmp)
+<img/12.png>
+File: img/13.png Graphic file (type bmp)
+<img/13.png>
+ [66] [67] (d:/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2020/03/24 1.8d listings language file
+) [68
+
+] [69] [70] [71] [72] [73] [74] (./temp.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 14782 strings out of 476179
+ 340072 string characters out of 5815277
+ 1137235 words of memory out of 5000000
+ 35216 multiletter control sequences out of 15000+600000
+ 478697 words of font info for 99 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 89i,15n,97p,390b,1009s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+Output written on temp.pdf (74 pages).
